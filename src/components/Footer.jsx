@@ -60,7 +60,7 @@ export default function Footer() {
             {t.footer.copy}
           </span>
           <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "0.72rem", color: "#3D4554" }}>
-            v2.0.0 — system.active
+            v3.0.0 — system.active
           </span>
         </div>
       </div>

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useLang } from "../i18n/index.jsx";
-import { useProgress } from "../hooks/useProgress";
+import { useProgress } from "../hooks/useProgress.jsx";
 import SubtopicItem from "./SubtopicItem";
 
 export default function LearningTopicCard({ topic, index }) {

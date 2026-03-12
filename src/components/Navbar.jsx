@@ -47,7 +47,7 @@ export default function Navbar() {
           </NavLink>
 
           {/* Desktop links */}
-          <div style={{ display: "flex", gap: "1.8rem", alignItems: "center", "@media(max-width:768px)": { display: "none" } }}
+          <div style={{ display: "flex", gap: "1.8rem", alignItems: "center" }}
             className="desktop-nav">
             {links.map(({ to, label }) => (
               <RouterNavLink key={to} to={to} label={label} />

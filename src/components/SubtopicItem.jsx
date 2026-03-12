@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useProgress } from "../hooks/useProgress";
+import { useProgress } from "../hooks/useProgress.jsx";
 
 function YouTubeIcon({ color }) {
   return (
