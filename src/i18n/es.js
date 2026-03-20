@@ -130,7 +130,8 @@ const es = {
         { title: "Temperature", youtube: "https://youtube.com/shorts/HMPJQl-U-Vs?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7613379836383366421" },
         { title: "Top_p (Nucleus Sampling)", youtube: "https://youtube.com/shorts/eFfajrNEHOE?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7615269209442307349" },
         { title: "Max Tokens (Input + Output)", youtube: "https://youtube.com/shorts/xf2o8Y6QBaI?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7615486110306815253" },
-        { title: "Determinismo y Reproducibilidad", youtube: "https://youtube.com/shorts/-DByxwredxk?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7616024562697866517" }
+        { title: "Determinismo y Reproducibilidad", youtube: "https://youtube.com/shorts/-DByxwredxk?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7616024562697866517" },
+        { title: "Construí mi propio ChatGPT + Claude", youtube: "https://youtu.be/J55KeJPSsLI?si=vaYNRfT39Fhe-qbD" }        
       ],
     },
     {
@@ -143,10 +144,10 @@ const es = {
 
         { title: "If y Else en Python Explicado Fácil (Nivel Fácil)", youtube: "https://youtube.com/shorts/ylZo_de-QB8?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7611452159942642965" },
         { title: "elif y Operadores Lógicos en Python (Nivel Medio)", youtube: "https://youtube.com/shorts/5bCrT-CsUOM?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7613622969788779796" },
-        { title: "Condicionales Profesionales en Python: Ternario y Match-Case (Nivel Difícil)" },
+        { title: "Condicionales Profesionales en Python: Ternario y Match-Case (Nivel Difícil)", youtube:"https://youtube.com/shorts/bOT92yBD0i0?si=e2H7b20aVtZyZAlv", tiktok:"https://www.tiktok.com/@system.handler/video/7616459475410504980" },
 
-        { title: "Loops For y While en Python en 60 Segundos (Nivel Fácil)" },
-        { title: "range(), break y continue en Python (Nivel Medio)" },
+        { title: "Loops For y While en Python en 60 Segundos (Nivel Fácil)", youtube:"https://youtube.com/shorts/dv8nOAsXpWo?si=cod8Lh22SgEd8M6_", tiktok:"https://www.tiktok.com/@system.handler/video/7616590163979832597" },
+        { title: "range(), break y continue en Python (Nivel Medio)", youtube:"https://youtube.com/shorts/ITm8fWRjF5g?si=wS5r25MuiyVZk1tr", tiktok:"https://www.tiktok.com/@system.handler/video/7617045268273433877" },
         { title: "List Comprehension y Técnicas de Iteración en Python (Nivel Difícil)" }
       ],
     },

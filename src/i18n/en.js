@@ -130,7 +130,8 @@ const en = {
         { title: "Temperature", youtube: "https://youtube.com/shorts/HMPJQl-U-Vs?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7613379836383366421" },
         { title: "Top_p (Nucleus Sampling)", youtube: "https://youtube.com/shorts/eFfajrNEHOE?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7615269209442307349" },
         { title: "Max Tokens (Input + Output)", youtube: "https://youtube.com/shorts/xf2o8Y6QBaI?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7615486110306815253" },
-        { title: "Determinism and Reproducibility", youtube: "https://youtube.com/shorts/-DByxwredxk?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7616024562697866517" }
+        { title: "Determinism and Reproducibility", youtube: "https://youtube.com/shorts/-DByxwredxk?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7616024562697866517" },
+        { title: "I built my own ChatGPT + Claude", youtube: "https://youtu.be/J55KeJPSsLI?si=vaYNRfT39Fhe-qbD" }
       ],
     },
     {
@@ -143,10 +144,10 @@ const en = {
 
         { title: "Python If and Else Explained Simply (Beginner)", youtube: "https://youtube.com/shorts/ylZo_de-QB8?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7611452159942642965" },
         { title: "Python elif and Logical Operators (Intermediate)", youtube: "https://youtube.com/shorts/5bCrT-CsUOM?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7613622969788779796" },
-        { title: "Professional Python Conditionals: Ternary and Match-Case (Advanced)" },
+        { title: "Professional Python Conditionals: Ternary and Match-Case (Advanced)", youtube:"https://youtube.com/shorts/bOT92yBD0i0?si=e2H7b20aVtZyZAlv", tiktok:"https://www.tiktok.com/@system.handler/video/7616459475410504980" },
 
-        { title: "Python For and While Loops in 60 Seconds (Beginner)" },
-        { title: "Python range(), break and continue (Intermediate)" },
+        { title: "Python For and While Loops in 60 Seconds (Beginner)", youtube:"https://youtube.com/shorts/dv8nOAsXpWo?si=cod8Lh22SgEd8M6_", tiktok:"https://www.tiktok.com/@system.handler/video/7616590163979832597" },
+        { title: "Python range(), break and continue (Intermediate)", youtube:"https://youtube.com/shorts/ITm8fWRjF5g?si=wS5r25MuiyVZk1tr", tiktok:"https://www.tiktok.com/@system.handler/video/7617045268273433877" },
         { title: "Python List Comprehension and Iteration Tricks (Advanced)" }
       ],
     },
