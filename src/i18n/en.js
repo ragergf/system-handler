@@ -16,6 +16,7 @@ const en = {
     clickToCollapse: "Click to collapse",
     completed: "Completed",
     progress: "Progress",
+    searchPlaceholder: "Search courses and modules...",
   },
   mentor: {
     badge: "Handler Mentor",

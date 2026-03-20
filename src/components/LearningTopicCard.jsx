@@ -3,7 +3,7 @@ import { useLang } from "../i18n/index.jsx";
 import { useProgress } from "../hooks/useProgress.jsx";
 import SubtopicItem from "./SubtopicItem";
 
-export default function LearningTopicCard({ topic, index }) {
+export default function LearningTopicCard({ topic, index, filteredSubtopics, forceExpand  }) {
   const [expanded, setExpanded] = useState(false);
   const [hovered, setHovered] = useState(false);
   const { t } = useLang();
@@ -14,6 +14,8 @@ export default function LearningTopicCard({ topic, index }) {
   const pct = total > 0 ? Math.round((done / total) * 100) : 0;
   const isCompleted = done === total && total > 0;
   const isActive = expanded || hovered;
+  const isExpanded = forceExpand || expanded;
+  const subtopicsToShow = filteredSubtopics || topic.subtopics;
 
   return (
     <div
@@ -33,7 +35,7 @@ export default function LearningTopicCard({ topic, index }) {
       onMouseLeave={() => setHovered(false)}
     >
       {/* Header */}
-      <div onClick={() => setExpanded(!expanded)} style={{ padding: "28px 28px 0", cursor: "pointer", userSelect: "none" }}>
+      <div onClick={() => !forceExpand && setExpanded(!expanded)} style={{ padding: "28px 28px 0", cursor: forceExpand ? "default" : "pointer", userSelect: "none" }}>
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 18 }}>
           {/* Icon */}
           <div style={{
@@ -118,11 +120,11 @@ export default function LearningTopicCard({ topic, index }) {
       </div>
 
       {/* Subtopics */}
-      {expanded && (
+      {isExpanded && (
         <div style={{ padding: "0 28px 24px", borderTop: "1px solid rgba(255,255,255,0.055)" }}>
           <div style={{ height: 16 }} />
-          {topic.subtopics.map((sub, i) => (
-            <SubtopicItem key={i} subtopic={sub} index={i} topicId={topic.id} />
+          {subtopicsToShow.map((sub) => (
+            <SubtopicItem key={sub.title} subtopic={sub} index={topic.subtopics.indexOf(sub)} topicId={topic.id} />
           ))}
         </div>
       )}
