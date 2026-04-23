@@ -71,7 +71,7 @@ export default function LearningPage() {
 
       {/* Cards */}
       {filtered.length > 0 ? (
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(360px, 1fr))", gap: 24 }}>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(560px, 1fr))", gap: 24 }}>
           {filtered.map((topic, i) => (
             <LearningTopicCard
               key={topic.id}

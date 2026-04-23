@@ -119,6 +119,29 @@ const es = {
   },
   topics: [
     {
+      "title": "Agentic Engineering - Fundación",
+      "description": "Construye la base de un sistema real con IA. Define reglas, estructura y comportamiento del agente antes de escribir código.",
+      "subtopics": [
+        { "title": "Introducción a Agentic Engineering", "youtube": "https://youtube.com/shorts/64kAwO2cW8s?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7628270825493269781?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Instalación de VS Code", "youtube": "https://youtube.com/shorts/bU7FJgO8ypc?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7628635241040628993?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Instalación de OpenCode", "youtube": "https://youtube.com/shorts/k9rxKHET43Y?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7629111218816535809?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Crear proyecto vacío", "youtube": "https://youtube.com/shorts/7eoMGYh3uAs?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7629385389123505429?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "PLAN MODE: Diseñar sistema POS", "youtube": "https://youtube.com/shorts/pQpO6owRvCc?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7629767199112072469?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Crear stack.md", "youtube": "https://youtube.com/shorts/f-jrzUxhMdM?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7630081244818066706?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Crear AGENTS.md", "youtube": "https://youtube.com/shorts/BsBJXDskWbg?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7630235158439939346?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Corregir Ruta", "youtube": "https://youtube.com/shorts/iRXVVItVWtY?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7630241303678176530?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" }
+      ]
+    },
+    {
+      "title": "Agentic Engineering - Primer Output Real",
+      "description": "Obtén resultados reales desde el inicio. Genera el primer output, valida contra reglas y aprende a iterar correctamente con el agente.",
+      "subtopics": [
+        { "title": "BUILD: Generar primer archivo", "youtube": "https://youtube.com/shorts/MGPCtujt02s?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7631226419925765383?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Validar output vs reglas", "youtube": "https://youtube.com/shorts/pC-1DBOpnxY?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7631620158901062919?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Iterar correctamente con el agente", "youtube": "", "tiktok": "", "github": "" }
+      ]
+    },
+    {
       title: "Ingeniero LLM",
       description: "Domina los modelos de lenguaje, ingeniería de prompts, fine-tuning y arquitectura de pipelines de IA en producción.",
       subtopics: [
@@ -136,7 +159,7 @@ const es = {
       ],
     },
     {
-      title: "Python desde Cero",
+      title: "Python desde Cero - Fundamentos",
       description: "De cero a Python nivel ingeniería. Estructuras de datos, algoritmos, POO, asincronismo y sistemas reales en producción.",
       subtopics: [
         { title: "Variables en Python en 60 Segundos (Nivel Fácil)", youtube: "https://youtube.com/shorts/ZP_6bBwASSM?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7611211397644520725", github:"https://github.com/ragergf/python-desde-cero/tree/main/modulo-1-fundamentos" },
@@ -149,8 +172,25 @@ const es = {
 
         { title: "Loops For y While en Python en 60 Segundos (Nivel Fácil)", youtube:"https://youtube.com/shorts/dv8nOAsXpWo?si=cod8Lh22SgEd8M6_", tiktok:"https://www.tiktok.com/@system.handler/video/7616590163979832597", github:"https://github.com/ragergf/python-desde-cero/tree/main/modulo-1-fundamentos" },
         { title: "range(), break y continue en Python (Nivel Medio)", youtube:"https://youtube.com/shorts/ITm8fWRjF5g?si=wS5r25MuiyVZk1tr", tiktok:"https://www.tiktok.com/@system.handler/video/7617045268273433877", github:"https://github.com/ragergf/python-desde-cero/tree/main/modulo-1-fundamentos" },
-        { title: "List Comprehension y Técnicas de Iteración en Python (Nivel Difícil)" }
+        { title: "List Comprehension y Técnicas de Iteración en Python (Nivel Difícil)", youtube: "https://youtube.com/shorts/mtWVOu0S4F4?si=aJc-RfjhxSXsmu3b", tiktok: "https://www.tiktok.com/@system.handler/video/7619387794447731989?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", github:"https://github.com/ragergf/python-desde-cero/tree/main/modulo-1-fundamentos" }
       ],
+    },
+    {
+      "title": "Python desde Cero - Estructuras de Datos",
+      "description": "Domina las estructuras de datos en Python: listas, diccionarios, tuplas y sets. Aprende desde lo básico hasta técnicas avanzadas usadas en sistemas reales.",
+      "subtopics": [
+        { "title": "Listas en Python en 60 Segundos (Nivel Fácil)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "Métodos y Manipulación de Listas en Python (Nivel Medio)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "List Comprehensions y Patrones Avanzados con Listas (Nivel Difícil)", "youtube": "", "tiktok": "", "github": "" },
+
+        { "title": "Diccionarios en Python en 60 Segundos (Nivel Fácil)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "Acceso, Métodos y Buenas Prácticas con Diccionarios (Nivel Medio)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "Diccionarios Avanzados: Anidados y Comprensiones (Nivel Difícil)", "youtube": "", "tiktok": "", "github": "" },
+
+        { "title": "Tuplas y Sets en Python en 60 Segundos (Nivel Fácil)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "Diferencias Clave y Uso Correcto de Tuplas y Sets (Nivel Medio)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "Operaciones Avanzadas con Sets y Casos Reales (Nivel Difícil)", "youtube": "", "tiktok": "", "github": "" }
+      ]
     },
     {
       title: "Introducción a Microservicios y Arquitectura Event-Driven",

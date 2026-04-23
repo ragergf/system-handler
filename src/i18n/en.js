@@ -119,6 +119,29 @@ const en = {
   },
   topics: [
     {
+      "title": "Agentic Engineering - Foundation",
+      "description": "Build the foundation of a real AI-driven system. Define rules, structure, and agent behavior before writing code.",
+      "subtopics": [
+        { "title": "Introduction to Agentic Engineering", "youtube": "https://youtube.com/shorts/64kAwO2cW8s?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7628270825493269781?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Install VS Code", "youtube": "https://youtube.com/shorts/bU7FJgO8ypc?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7628635241040628993?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Install OpenCode", "youtube": "https://youtube.com/shorts/k9rxKHET43Y?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7629111218816535809?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Create an Empty Project", "youtube": "https://youtube.com/shorts/7eoMGYh3uAs?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7629385389123505429?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "PLAN MODE: Design POS System", "youtube": "https://youtube.com/shorts/pQpO6owRvCc?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7629767199112072469?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Create stack.md", "youtube": "https://youtube.com/shorts/f-jrzUxhMdM?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7630081244818066706?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Create AGENTS.md", "youtube": "https://youtube.com/shorts/BsBJXDskWbg?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7630235158439939346?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Fix Root", "youtube": "https://youtube.com/shorts/iRXVVItVWtY?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7630241303678176530?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" }
+      ]
+    },
+    {
+      "title": "Agentic Engineering - First Real Output",
+      "description": "Get real results from the start. Generate your first output, validate against rules, and learn how to iterate correctly with the agent.",
+      "subtopics": [
+        { "title": "BUILD: Generate First File", "youtube": "https://youtube.com/shorts/MGPCtujt02s?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7631226419925765383?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Validate Output vs Rules", "youtube": "https://youtube.com/shorts/pC-1DBOpnxY?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7631620158901062919?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Iterate Correctly with the Agent", "youtube": "", "tiktok": "", "github": "" }
+      ]
+    },
+    {
       title: "LLM Engineer",
       description: "Master large language models, prompt engineering, fine-tuning, and production AI pipeline architecture.",
       subtopics: [
@@ -136,7 +159,7 @@ const en = {
       ],
     },
     {
-      title: "Python from Scratch",
+      title: "Python from Scratch - Fundamentals",
       description: "From zero to engineering-grade Python. Data structures, algorithms, OOP, async, and real production systems.",
       subtopics: [
         { title: "Python Variables in 60 Seconds (Beginner)", youtube: "https://youtube.com/shorts/ZP_6bBwASSM?feature=share", tiktok: "https://www.tiktok.com/@system.handler/video/7611211397644520725", github:"https://github.com/ragergf/python-desde-cero/tree/main/modulo-1-fundamentos" },
@@ -151,6 +174,23 @@ const en = {
         { title: "Python range(), break and continue (Intermediate)", youtube:"https://youtube.com/shorts/ITm8fWRjF5g?si=wS5r25MuiyVZk1tr", tiktok:"https://www.tiktok.com/@system.handler/video/7617045268273433877", github:"https://github.com/ragergf/python-desde-cero/tree/main/modulo-1-fundamentos" },
         { title: "Python List Comprehension and Iteration Tricks (Advanced)" }
       ],
+    },
+    {
+      "title": "Python from Zero - Data Structures",
+      "description": "Master data structures in Python: lists, dictionaries, tuples, and sets. Learn from the basics to advanced patterns used in real-world systems.",
+      "subtopics": [
+        { "title": "Lists in Python in 60 Seconds (Beginner Level)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "List Methods and Manipulation in Python (Intermediate Level)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "List Comprehensions and Advanced List Patterns (Advanced Level)", "youtube": "", "tiktok": "", "github": "" },
+
+        { "title": "Dictionaries in Python in 60 Seconds (Beginner Level)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "Access, Methods, and Best Practices with Dictionaries (Intermediate Level)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "Advanced Dictionaries: Nested Structures and Comprehensions (Advanced Level)", "youtube": "", "tiktok": "", "github": "" },
+
+        { "title": "Tuples and Sets in Python in 60 Seconds (Beginner Level)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "Key Differences and Proper Use of Tuples and Sets (Intermediate Level)", "youtube": "", "tiktok": "", "github": "" },
+        { "title": "Advanced Set Operations and Real-World Use Cases (Advanced Level)", "youtube": "", "tiktok": "", "github": "" }
+      ]
     },
     {
       title: "Introduction to Microservices and Event-Driven Architecture",
