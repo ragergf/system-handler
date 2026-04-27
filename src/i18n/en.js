@@ -119,7 +119,7 @@ const en = {
   },
   topics: [
     {
-      "title": "Agentic Engineering - Foundation",
+      "title": "Agentic Engineering - Stage 0: Foundation",
       "description": "Build the foundation of a real AI-driven system. Define rules, structure, and agent behavior before writing code.",
       "subtopics": [
         { "title": "Introduction to Agentic Engineering", "youtube": "https://youtube.com/shorts/64kAwO2cW8s?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7628270825493269781?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
@@ -133,12 +133,22 @@ const en = {
       ]
     },
     {
-      "title": "Agentic Engineering - First Real Output",
+      "title": "Agentic Engineering - Stage 0.5: First Real Output",
       "description": "Get real results from the start. Generate your first output, validate against rules, and learn how to iterate correctly with the agent.",
       "subtopics": [
         { "title": "BUILD: Generate First File", "youtube": "https://youtube.com/shorts/MGPCtujt02s?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7631226419925765383?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
         { "title": "Validate Output vs Rules", "youtube": "https://youtube.com/shorts/pC-1DBOpnxY?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7631620158901062919?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
-        { "title": "Iterate Correctly with the Agent", "youtube": "", "tiktok": "", "github": "" }
+        { "title": "Iterate Correctly with the Agent", "youtube": "https://youtube.com/shorts/l0ZH03QkHgg?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7631966904785145095?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" }
+      ]
+    },
+    {
+      "title": "Agentic Engineering - Stage 1: Controlled Backend",
+      "description": "Build a professional backend with FastAPI while strictly following defined rules. Learn how to validate the agent’s output and prevent deviations.",
+      "subtopics": [
+        { "title": "Create FastAPI Structure", "youtube": "https://youtube.com/shorts/VlzBZl1M5XU?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7632379740334083346?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Endpoint /health", "youtube": "https://youtube.com/shorts/2KV3-n-LiYQ?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7632710101404634375?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Validate Against stack.md", "youtube": "https://youtube.com/shorts/HqwIFJ-jg5A?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7633152761273535762?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Error: The Agent Deviates", "youtube": "https://youtube.com/shorts/T4H_PQxdlZ8?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7633508448310758664?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" }
       ]
     },
     {

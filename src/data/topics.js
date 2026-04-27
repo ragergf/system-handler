@@ -4,6 +4,7 @@
 export const TOPICS = [
   { id: "agentic-foundation",           icon: "⬡", glowColor: "#0A84FF", subtopics: [{},{},{},{},{},{}] },
   { id: "agentic-output-real",           icon: "⬡", glowColor: "#0A84FF", subtopics: [{},{},{},{},{},{}] },
+  { id: "agentic-backend-control",           icon: "⬡", glowColor: "#0A84FF", subtopics: [{},{},{},{},{},{}] },
   { id: "llm",           icon: "⬡", glowColor: "#0A84FF", subtopics: [{},{},{},{},{},{}] },
   { id: "python-fundamentals",        icon: "◈", glowColor: "#7A5CFF", subtopics: [{},{},{},{},{},{},{}] },
   { id: "python-data-structures",        icon: "◈", glowColor: "#7A5CFF", subtopics: [{},{},{},{},{},{},{}] },
