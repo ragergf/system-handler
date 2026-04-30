@@ -152,6 +152,16 @@ const es = {
       ]
     },
     {
+      "title": "Agentic Engineering - Etapa 2: Frontend",
+      "description": "Visualiza tu sistema en acción. Construye la interfaz, conecta el backend y valida el flujo completo de tu aplicación.",
+      "subtopics": [
+        { "title": "Crear app React", "youtube": "https://youtube.com/shorts/cJu44DXH8jY?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7633631374297091335?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Vista básica", "youtube": "https://youtube.com/shorts/sbMv0XBM5yQ?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7633982545503243528?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Conectar backend", "youtube": "https://youtube.com/shorts/salXMHnr0wk?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7634013484790942994?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Validar flujo", "youtube": "https://youtube.com/shorts/LmZptMEVFo8?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7634016031035493639?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" }
+      ]
+    },
+    {
       title: "Ingeniero LLM",
       description: "Domina los modelos de lenguaje, ingeniería de prompts, fine-tuning y arquitectura de pipelines de IA en producción.",
       subtopics: [

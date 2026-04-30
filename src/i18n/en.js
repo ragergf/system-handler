@@ -152,6 +152,16 @@ const en = {
       ]
     },
     {
+      "title": "Agentic Engineering - Stage 2: Frontend",
+      "description": "Visualize your system in action. Build the interface, connect the backend, and validate the full application flow.",
+      "subtopics": [
+        { "title": "Create React App", "youtube": "https://youtube.com/shorts/cJu44DXH8jY?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7633631374297091335?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Basic View", "youtube": "https://youtube.com/shorts/sbMv0XBM5yQ?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7633982545503243528?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Connect Backend", "youtube": "https://youtube.com/shorts/salXMHnr0wk?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7634013484790942994?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" },
+        { "title": "Validate Flow", "youtube": "https://youtube.com/shorts/LmZptMEVFo8?feature=share", "tiktok": "https://www.tiktok.com/@system.handler/video/7634016031035493639?is_from_webapp=1&sender_device=pc&web_id=7598010515457721874", "github": "" }
+      ]
+    },
+    {
       title: "LLM Engineer",
       description: "Master large language models, prompt engineering, fine-tuning, and production AI pipeline architecture.",
       subtopics: [
